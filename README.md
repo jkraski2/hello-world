@@ -1,2 +1,2 @@
 # hello-world
-basic hello world
+I'm a linguistics major minoring in CIT!
